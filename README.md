@@ -1,2 +1,3 @@
 # Mounika Ragupathy
-## I would say it's a useful practice and good for future work in personal web development projects. 
+## I would say it's a valuable practice and productive for future work in personal web development projects. 
+#### I'd like to explore and learn new web technology-related skills, methods, and other abilities. By enrolling in a technology course, I can get a variety of skills required for today's changing digital environment. I would like to gain technical proficiency, problem-solving skills, better programming practice in languages like Python and javascript, web development expertise encompassing both front-end and back-end, data analysis proficiency using tools, cybersecurity insights, networking insights, cloud computing familiarity with services like AWS and Azure, mobile app development abilities, and more through hands-on training.  
